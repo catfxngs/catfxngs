@@ -7,8 +7,8 @@
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <!--- js --->
 </p>
 
-beginner developer new to git, you can laugh at my code
+hello, i work for a living and i'm just having fun
 
-just having fun and working on personal projects
+you have permission to laugh at my code
 
 ![meowchi hopping gif](https://media.discordapp.net/attachments/1060599560759681106/1062958577775542302/meowchihop.gif)
