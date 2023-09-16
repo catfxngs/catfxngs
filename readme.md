@@ -1,4 +1,4 @@
-### hello, i am jules. i work full-time and i'm just having fun! 
+### hello, i am fangs. i work full-time and i'm just having fun! 
 
 currently focusing on hobby projects, but open to collaborate.
 
