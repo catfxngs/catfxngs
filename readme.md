@@ -13,8 +13,6 @@
 
 (\*˘︶˘\*).｡.:*♡  (⌒▽⌒)♡
 
-bringing the love of open-source software to *everyone* :)
-
 ![dino game](assets/dino.gif)
 
 </div>
