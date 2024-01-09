@@ -6,7 +6,7 @@
 
 (\*˘︶˘\*).｡.:*♡  (⌒▽⌒)♡
 
-madly in love with pretty docs
+big fan of documentation.
 
 <!---![dino game](assets/dino.gif)
 
