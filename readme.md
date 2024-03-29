@@ -6,7 +6,7 @@
 
 (\*˘︶˘\*).｡.:*♡  (⌒▽⌒)♡
 
-part-time useless info dumper. full-time swag.
+part-time info dumper. full-time swag.
 
 <!-- ![dino game](assets/dino.gif) -->
 
