@@ -6,7 +6,7 @@
 
 (\*˘︶˘\*).｡.:*♡  (⌒▽⌒)♡
 
-part-time info dumper. full-time swag.
+hello, i do fun things on computers.
 
 <!-- ![dino game](assets/dino.gif) -->
 
