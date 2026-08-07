@@ -6,10 +6,10 @@
 
 (\*˘︶˘\*).｡.:*♡  (⌒▽⌒)♡
 
-hello, i do fun things on computers.
+hello, i like computers.
 
 <!-- ![dino game](assets/dino.gif) -->
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,python,cpp,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,scss,python,cpp,mysql,ts,docker,linux)](https://skillicons.dev)
 
 </div>
